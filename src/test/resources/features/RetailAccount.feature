@@ -1,4 +1,4 @@
-@Regression
+@account
 Feature: Retail Account Page
 
   Background: 
@@ -20,7 +20,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard        | expirationMonth | expirationYear | securityCode |
-      | 0008889234567800 | Ahmadi Zabihullah |               6 |           2023 |          321 |
+      | 0118889284927550 | Ahmadi Zabihullah |               6 |           2023 |          321 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -30,7 +30,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4350935761098473 | Zabihullah |               5 |           2023 |          006 |
+      | 4350935761090073 | Zabihullah |               5 |           2023 |          006 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 

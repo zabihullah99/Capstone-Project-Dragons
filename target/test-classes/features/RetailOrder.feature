@@ -8,7 +8,7 @@ Feature: Retail Order Page
     And User click on login button
     And User should be logged in into Account
 
-  @Regression
+  @test1
   Scenario: Verify User can add an item to cart
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
@@ -18,7 +18,7 @@ Feature: Retail Order Page
     And User click add to Cart button
     Then the cart icon quantity should change to '2'
 
-  @Regression
+  @test2
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     And User change the category to 'Electronics'
     And User search for an item Apex Legends 'Apex Legends'

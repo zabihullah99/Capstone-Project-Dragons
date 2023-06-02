@@ -6,9 +6,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import tek.capstone.dragons.base.BaseSetup;
 
-public class RetailOrderPage extends BaseSetup {
-
-	public RetailOrderPage() {
+public class RetialOrderPage extends BaseSetup {
+	public RetialOrderPage() {
 		PageFactory.initElements(getDriver(), this);
 	}
 
