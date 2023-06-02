@@ -2598,3 +2598,531 @@
 2023-06-02 08:35:25,126 - logger_file -INFO - User enter email and password successfully
 2023-06-02 08:35:25,172 - logger_file -INFO - User click on log in button successfully
 2023-06-02 08:35:30,219 - logger_file -INFO - Account: was verified successfully
+2023-06-02 09:00:31,368 - logger_file -INFO - User is on retail website
+2023-06-02 09:00:31,460 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 09:00:31,599 - logger_file -INFO - User enter email and password successfully
+2023-06-02 09:00:31,651 - logger_file -INFO - User click on log in button successfully
+2023-06-02 09:00:36,694 - logger_file -INFO - Account: was verified successfully
+2023-06-02 09:00:36,774 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 09:00:36,835 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 09:00:36,892 - logger_file -INFO - User click on search Bttn
+2023-06-02 09:00:37,471 - logger_file -INFO - User successfully click on item
+2023-06-02 11:36:01,310 - logger_file -INFO - User is on retail website
+2023-06-02 11:36:01,402 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:36:01,559 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:36:01,613 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:36:06,652 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:36:06,732 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 11:36:06,790 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 11:36:06,839 - logger_file -INFO - User click on search Bttn
+2023-06-02 11:36:07,427 - logger_file -INFO - User successfully click on item
+2023-06-02 11:36:09,695 - logger_file -INFO - User is on retail website
+2023-06-02 11:36:09,774 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:36:09,904 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:36:09,953 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:36:14,993 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:36:15,068 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 11:36:15,124 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 11:36:15,172 - logger_file -INFO - User click on search Bttn
+2023-06-02 11:36:15,757 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 11:36:18,040 - logger_file -INFO - User is on retail website
+2023-06-02 11:36:18,124 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:36:18,253 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:36:18,301 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:36:23,339 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:36:23,429 - logger_file -INFO - User clicked on order
+2023-06-02 11:36:23,489 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:36:28,575 - logger_file -INFO - User successfully clicked on cancel Button
+2023-06-02 11:36:33,612 - logger_file -INFO - Actual and Expected text are the same
+2023-06-02 11:36:33,661 - logger_file -INFO - User click the cancel order button
+2023-06-02 11:36:33,661 - logger_file -INFO - Your order has been cancelled Successfully
+2023-06-02 11:36:35,906 - logger_file -INFO - User is on retail website
+2023-06-02 11:36:35,993 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:36:36,129 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:36:36,178 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:36:41,223 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:36:41,316 - logger_file -INFO - User clicked on order
+2023-06-02 11:36:41,377 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:36:41,438 - logger_file -INFO - User click on return Item Button
+2023-06-02 11:36:41,451 - logger_file -INFO - expected and Actual text are same
+2023-06-02 11:36:41,464 - logger_file -INFO - Expteded and Actual Text are same
+2023-06-02 11:36:41,510 - logger_file -INFO - User Successfully on Return Item
+2023-06-02 11:36:41,511 - logger_file -INFO - Return was Successfully
+2023-06-02 11:36:43,778 - logger_file -INFO - User is on retail website
+2023-06-02 11:36:43,847 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:36:43,983 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:36:44,035 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:36:49,082 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:36:49,173 - logger_file -INFO - User clicked on order
+2023-06-02 11:36:49,241 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:36:49,305 - logger_file -INFO - User click on Review Button
+2023-06-02 11:36:49,385 - logger_file -INFO - User Succesfully Clicked on reveiw submit Button
+2023-06-02 11:36:49,386 - logger_file -INFO - Your review was added successfully
+2023-06-02 11:38:37,321 - logger_file -INFO - User is on retail website
+2023-06-02 11:38:37,401 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:38:37,539 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:38:37,589 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:38:42,625 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:38:42,707 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 11:38:42,771 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 11:38:42,827 - logger_file -INFO - User click on search Bttn
+2023-06-02 11:38:43,422 - logger_file -INFO - User successfully click on item
+2023-06-02 11:38:45,726 - logger_file -INFO - User is on retail website
+2023-06-02 11:38:45,798 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:38:45,933 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:38:45,986 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:38:51,032 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:38:51,109 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 11:38:51,165 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 11:38:51,214 - logger_file -INFO - User click on search Bttn
+2023-06-02 11:38:51,797 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 11:38:54,102 - logger_file -INFO - User is on retail website
+2023-06-02 11:38:54,182 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:38:54,315 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:38:54,360 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:38:59,403 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:38:59,498 - logger_file -INFO - User clicked on order
+2023-06-02 11:38:59,565 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:39:04,653 - logger_file -INFO - User successfully clicked on cancel Button
+2023-06-02 11:39:09,682 - logger_file -INFO - Actual and Expected text are the same
+2023-06-02 11:39:09,733 - logger_file -INFO - User click the cancel order button
+2023-06-02 11:39:09,733 - logger_file -INFO - Your order has been cancelled Successfully
+2023-06-02 11:39:12,052 - logger_file -INFO - User is on retail website
+2023-06-02 11:39:12,134 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:39:12,263 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:39:12,311 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:39:17,346 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:39:17,444 - logger_file -INFO - User clicked on order
+2023-06-02 11:39:17,512 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:39:17,577 - logger_file -INFO - User click on return Item Button
+2023-06-02 11:39:17,593 - logger_file -INFO - expected and Actual text are same
+2023-06-02 11:39:17,606 - logger_file -INFO - Expteded and Actual Text are same
+2023-06-02 11:39:17,654 - logger_file -INFO - User Successfully on Return Item
+2023-06-02 11:39:17,655 - logger_file -INFO - Return was Successfully
+2023-06-02 11:39:19,833 - logger_file -INFO - User is on retail website
+2023-06-02 11:39:19,914 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:39:20,038 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:39:20,083 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:39:25,125 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:39:25,219 - logger_file -INFO - User clicked on order
+2023-06-02 11:39:25,277 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:39:25,335 - logger_file -INFO - User click on Review Button
+2023-06-02 11:39:25,419 - logger_file -INFO - User Succesfully Clicked on reveiw submit Button
+2023-06-02 11:39:25,420 - logger_file -INFO - Your review was added successfully
+2023-06-02 11:40:49,819 - logger_file -INFO - User is on retail website
+2023-06-02 11:40:49,900 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:40:50,039 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:40:50,089 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:40:55,136 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:40:55,221 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 11:40:55,277 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 11:40:55,329 - logger_file -INFO - User click on search Bttn
+2023-06-02 11:40:55,912 - logger_file -INFO - User successfully click on item
+2023-06-02 11:40:58,209 - logger_file -INFO - User is on retail website
+2023-06-02 11:40:58,295 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:40:58,425 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:40:58,477 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:41:03,516 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:41:03,590 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 11:41:03,648 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 11:41:03,696 - logger_file -INFO - User click on search Bttn
+2023-06-02 11:41:04,274 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 11:41:06,594 - logger_file -INFO - User is on retail website
+2023-06-02 11:41:06,680 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:41:06,810 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:41:06,860 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:41:11,898 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:41:11,994 - logger_file -INFO - User clicked on order
+2023-06-02 11:41:12,051 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:41:17,135 - logger_file -INFO - User successfully clicked on cancel Button
+2023-06-02 11:41:22,169 - logger_file -INFO - Actual and Expected text are the same
+2023-06-02 11:41:22,216 - logger_file -INFO - User click the cancel order button
+2023-06-02 11:41:22,217 - logger_file -INFO - Your order has been cancelled Successfully
+2023-06-02 11:41:24,484 - logger_file -INFO - User is on retail website
+2023-06-02 11:41:24,555 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:41:24,683 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:41:24,735 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:41:29,783 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:41:29,878 - logger_file -INFO - User clicked on order
+2023-06-02 11:41:29,942 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:41:30,000 - logger_file -INFO - User click on return Item Button
+2023-06-02 11:41:30,017 - logger_file -INFO - expected and Actual text are same
+2023-06-02 11:41:30,031 - logger_file -INFO - Expteded and Actual Text are same
+2023-06-02 11:41:30,081 - logger_file -INFO - User Successfully on Return Item
+2023-06-02 11:41:30,081 - logger_file -INFO - Return was Successfully
+2023-06-02 11:41:32,278 - logger_file -INFO - User is on retail website
+2023-06-02 11:41:32,357 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:41:32,500 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:41:32,546 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:41:37,583 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:41:37,677 - logger_file -INFO - User clicked on order
+2023-06-02 11:41:37,741 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:41:37,799 - logger_file -INFO - User click on Review Button
+2023-06-02 11:41:37,881 - logger_file -INFO - User Succesfully Clicked on reveiw submit Button
+2023-06-02 11:41:37,881 - logger_file -INFO - Your review was added successfully
+2023-06-02 11:48:16,716 - logger_file -INFO - User is on retail website
+2023-06-02 11:48:16,799 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:48:16,934 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:48:16,983 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:48:22,031 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:48:22,115 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 11:48:22,174 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 11:48:22,223 - logger_file -INFO - User click on search Bttn
+2023-06-02 11:48:22,810 - logger_file -INFO - User successfully click on item
+2023-06-02 11:48:25,032 - logger_file -INFO - User is on retail website
+2023-06-02 11:48:25,110 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:48:25,243 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:48:25,291 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:48:30,340 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:48:30,422 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 11:48:30,474 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 11:48:30,526 - logger_file -INFO - User click on search Bttn
+2023-06-02 11:48:31,103 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 11:48:33,381 - logger_file -INFO - User is on retail website
+2023-06-02 11:48:33,449 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:48:33,575 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:48:33,623 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:48:38,654 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:48:38,742 - logger_file -INFO - User clicked on order
+2023-06-02 11:48:38,806 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:48:43,886 - logger_file -INFO - User successfully clicked on cancel Button
+2023-06-02 11:48:48,918 - logger_file -INFO - Actual and Expected text are the same
+2023-06-02 11:48:48,967 - logger_file -INFO - User click the cancel order button
+2023-06-02 11:48:48,967 - logger_file -INFO - Your order has been cancelled Successfully
+2023-06-02 11:48:51,290 - logger_file -INFO - User is on retail website
+2023-06-02 11:48:51,368 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:48:51,497 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:48:51,548 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:48:56,596 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:48:56,701 - logger_file -INFO - User clicked on order
+2023-06-02 11:48:56,777 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:48:56,837 - logger_file -INFO - User click on return Item Button
+2023-06-02 11:48:56,851 - logger_file -INFO - expected and Actual text are same
+2023-06-02 11:48:56,865 - logger_file -INFO - Expteded and Actual Text are same
+2023-06-02 11:48:56,914 - logger_file -INFO - User Successfully on Return Item
+2023-06-02 11:48:56,914 - logger_file -INFO - Return was Successfully
+2023-06-02 11:48:59,259 - logger_file -INFO - User is on retail website
+2023-06-02 11:48:59,346 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 11:48:59,475 - logger_file -INFO - User enter email and password successfully
+2023-06-02 11:48:59,521 - logger_file -INFO - User click on log in button successfully
+2023-06-02 11:49:04,555 - logger_file -INFO - Account: was verified successfully
+2023-06-02 11:49:04,648 - logger_file -INFO - User clicked on order
+2023-06-02 11:49:04,710 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 11:49:04,761 - logger_file -INFO - User click on Review Button
+2023-06-02 12:07:35,887 - logger_file -INFO - User is on retail website
+2023-06-02 12:07:35,965 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:07:36,099 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:07:36,152 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:07:41,188 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:07:41,273 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:07:41,328 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 12:07:41,379 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:07:41,960 - logger_file -INFO - User successfully click on item
+2023-06-02 12:07:44,309 - logger_file -INFO - User is on retail website
+2023-06-02 12:07:44,379 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:07:44,511 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:07:44,560 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:07:49,601 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:07:49,678 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:07:49,737 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 12:07:49,785 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:07:50,365 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 12:07:52,736 - logger_file -INFO - User is on retail website
+2023-06-02 12:07:52,803 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:07:52,932 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:07:52,980 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:07:58,012 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:07:58,107 - logger_file -INFO - User clicked on order
+2023-06-02 12:07:58,175 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 12:08:03,265 - logger_file -INFO - User successfully clicked on cancel Button
+2023-06-02 12:08:08,297 - logger_file -INFO - Actual and Expected text are the same
+2023-06-02 12:08:08,347 - logger_file -INFO - User click the cancel order button
+2023-06-02 12:08:08,348 - logger_file -INFO - Your order has been cancelled Successfully
+2023-06-02 12:08:10,586 - logger_file -INFO - User is on retail website
+2023-06-02 12:08:10,653 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:08:10,780 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:08:10,828 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:08:15,869 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:08:15,967 - logger_file -INFO - User clicked on order
+2023-06-02 12:08:16,029 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 12:08:16,089 - logger_file -INFO - User click on return Item Button
+2023-06-02 12:08:16,105 - logger_file -INFO - expected and Actual text are same
+2023-06-02 12:08:16,118 - logger_file -INFO - Expteded and Actual Text are same
+2023-06-02 12:08:16,166 - logger_file -INFO - User Successfully on Return Item
+2023-06-02 12:08:16,167 - logger_file -INFO - Return was Successfully
+2023-06-02 12:08:18,362 - logger_file -INFO - User is on retail website
+2023-06-02 12:08:18,445 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:08:18,575 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:08:18,621 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:08:23,660 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:08:23,752 - logger_file -INFO - User clicked on order
+2023-06-02 12:08:23,816 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 12:08:23,869 - logger_file -INFO - User click on Review Button
+2023-06-02 12:08:23,953 - logger_file -INFO - User Succesfully Clicked on reveiw submit Button
+2023-06-02 12:08:23,954 - logger_file -INFO - Your review was added successfully
+2023-06-02 12:11:23,038 - logger_file -INFO - User is on retail website
+2023-06-02 12:11:23,152 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:11:23,328 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:11:23,384 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:12:54,792 - logger_file -INFO - User is on retail website
+2023-06-02 12:12:54,908 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:12:55,074 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:12:55,132 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:13:00,184 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:13:00,284 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:13:00,354 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 12:13:00,407 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:13:01,003 - logger_file -INFO - User successfully click on item
+2023-06-02 12:13:03,764 - logger_file -INFO - User is on retail website
+2023-06-02 12:13:03,860 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:13:04,024 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:13:04,080 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:13:09,123 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:13:09,202 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:13:09,265 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 12:13:09,325 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:13:09,915 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 12:13:12,563 - logger_file -INFO - User is on retail website
+2023-06-02 12:13:12,651 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:13:12,808 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:13:12,864 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:13:17,900 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:13:17,994 - logger_file -INFO - User clicked on order
+2023-06-02 12:13:18,076 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 12:13:23,162 - logger_file -INFO - User successfully clicked on cancel Button
+2023-06-02 12:13:28,188 - logger_file -INFO - Actual and Expected text are the same
+2023-06-02 12:13:28,241 - logger_file -INFO - User click the cancel order button
+2023-06-02 12:13:28,241 - logger_file -INFO - Your order has been cancelled Successfully
+2023-06-02 12:13:30,626 - logger_file -INFO - User is on retail website
+2023-06-02 12:13:30,718 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:13:30,875 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:13:30,929 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:13:35,963 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:13:36,064 - logger_file -INFO - User clicked on order
+2023-06-02 12:13:36,144 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 12:13:36,227 - logger_file -INFO - User click on return Item Button
+2023-06-02 12:13:36,252 - logger_file -INFO - expected and Actual text are same
+2023-06-02 12:13:36,268 - logger_file -INFO - Expteded and Actual Text are same
+2023-06-02 12:13:36,323 - logger_file -INFO - User Successfully on Return Item
+2023-06-02 12:13:36,324 - logger_file -INFO - Return was Successfully
+2023-06-02 12:13:38,717 - logger_file -INFO - User is on retail website
+2023-06-02 12:13:38,809 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:13:38,970 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:13:39,021 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:13:44,043 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:13:44,168 - logger_file -INFO - User clicked on order
+2023-06-02 12:13:44,250 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 12:13:44,322 - logger_file -INFO - User click on Review Button
+2023-06-02 12:13:44,415 - logger_file -INFO - User Succesfully Clicked on reveiw submit Button
+2023-06-02 12:13:44,415 - logger_file -INFO - Your review was added successfully
+2023-06-02 12:14:32,842 - logger_file -INFO - User is on retail website
+2023-06-02 12:14:32,944 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:14:33,115 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:14:33,178 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:14:38,220 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:14:38,310 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:14:38,378 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 12:14:38,431 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:14:39,030 - logger_file -INFO - User successfully click on item
+2023-06-02 12:19:31,717 - logger_file -INFO - User is on retail website
+2023-06-02 12:19:31,822 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:19:31,997 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:19:32,054 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:19:37,094 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:19:37,184 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:19:37,257 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 12:19:37,315 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:19:39,908 - logger_file -INFO - User successfully click on item
+2023-06-02 12:19:39,986 - logger_file -INFO - item Qty was selected by user
+2023-06-02 12:19:40,039 - logger_file -INFO - User click on add to cart Bttn
+2023-06-02 12:24:07,123 - logger_file -INFO - User is on retail website
+2023-06-02 12:24:07,239 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:24:07,416 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:24:07,491 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:24:12,520 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:24:12,617 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:24:12,686 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 12:24:12,742 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:24:15,325 - logger_file -INFO - User successfully click on item
+2023-06-02 12:24:15,402 - logger_file -INFO - item Qty was selected by user
+2023-06-02 12:24:15,463 - logger_file -INFO - User click on add to cart Bttn
+2023-06-02 12:27:10,320 - logger_file -INFO - User is on retail website
+2023-06-02 12:27:10,426 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:27:10,597 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:27:10,652 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:27:15,688 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:27:15,777 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:27:15,841 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 12:27:15,895 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:27:16,474 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 12:36:38,800 - logger_file -INFO - User is on retail website
+2023-06-02 12:36:38,911 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:36:39,075 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:36:39,132 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:36:44,165 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:36:44,259 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:36:44,340 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 12:36:44,395 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:36:46,974 - logger_file -INFO - User successfully click on item
+2023-06-02 12:36:47,146 - logger_file -INFO - User select quantity
+2023-06-02 12:36:47,203 - logger_file -INFO - User click on add to cart Bttn
+2023-06-02 12:36:47,280 - logger_file -INFO - the cart icon quantity changed
+2023-06-02 12:43:44,628 - logger_file -INFO - User is on retail website
+2023-06-02 12:43:44,743 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:43:44,920 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:43:44,991 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:43:50,030 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:43:50,132 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:43:50,202 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 12:43:50,263 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:43:50,838 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 12:47:12,320 - logger_file -INFO - User is on retail website
+2023-06-02 12:47:12,438 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:47:12,621 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:47:12,685 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:47:17,720 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:47:17,819 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:47:17,897 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 12:47:17,959 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:47:18,535 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 12:50:43,852 - logger_file -INFO - User is on retail website
+2023-06-02 12:50:43,970 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:50:44,150 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:50:44,219 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:50:49,245 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:50:49,342 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:50:49,410 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 12:50:49,471 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:50:52,060 - logger_file -INFO - User successfully click on item
+2023-06-02 12:50:52,238 - logger_file -INFO - User select quantity
+2023-06-02 12:50:52,295 - logger_file -INFO - User click on add to cart Bttn
+2023-06-02 12:50:52,370 - logger_file -INFO - the cart icon quantity changed
+2023-06-02 12:54:37,225 - logger_file -INFO - User is on retail website
+2023-06-02 12:54:37,331 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 12:54:37,512 - logger_file -INFO - User enter email and password successfully
+2023-06-02 12:54:37,572 - logger_file -INFO - User click on log in button successfully
+2023-06-02 12:54:42,611 - logger_file -INFO - Account: was verified successfully
+2023-06-02 12:54:42,703 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 12:54:42,765 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 12:54:42,825 - logger_file -INFO - User click on search Bttn
+2023-06-02 12:54:43,422 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 13:21:12,096 - logger_file -INFO - User is on retail website
+2023-06-02 13:21:12,197 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:21:12,351 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:21:12,404 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:21:17,450 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:21:17,540 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:21:17,603 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 13:21:17,653 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:21:20,279 - logger_file -INFO - User successfully click on item
+2023-06-02 13:21:20,449 - logger_file -INFO - User select quantity
+2023-06-02 13:21:20,499 - logger_file -INFO - User click on add to cart Bttn
+2023-06-02 13:21:20,565 - logger_file -INFO - the cart icon quantity changed
+2023-06-02 13:21:35,494 - logger_file -INFO - User is on retail website
+2023-06-02 13:21:35,583 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:21:35,736 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:21:35,788 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:21:40,841 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:21:40,930 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:21:40,990 - logger_file -INFO - Apex Legendswas entered successfully
+2023-06-02 13:21:41,040 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:21:41,647 - logger_file -INFO - User clicked on Apex Item
+2023-06-02 13:34:38,093 - logger_file -INFO - User is on retail website
+2023-06-02 13:34:38,185 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:34:38,342 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:34:38,398 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:34:43,441 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:34:43,537 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:34:43,598 - logger_file -INFO - User serach for item successfully
+2023-06-02 13:34:43,652 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:34:44,235 - logger_file -INFO - User click on Item
+2023-06-02 13:45:12,882 - logger_file -INFO - User is on retail website
+2023-06-02 13:45:12,977 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:45:13,135 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:45:13,191 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:45:18,235 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:45:18,333 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:45:18,395 - logger_file -INFO - User serach for item successfully
+2023-06-02 13:45:18,445 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:45:19,059 - logger_file -INFO - User click on Item
+2023-06-02 13:48:54,339 - logger_file -INFO - User is on retail website
+2023-06-02 13:48:54,429 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:48:54,585 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:48:54,640 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:48:59,681 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:48:59,768 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:48:59,826 - logger_file -INFO - User serach for item successfully
+2023-06-02 13:48:59,878 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:49:00,492 - logger_file -INFO - User click on Item
+2023-06-02 13:50:41,541 - logger_file -INFO - User is on retail website
+2023-06-02 13:50:41,632 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:50:41,785 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:50:41,842 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:50:46,895 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:50:46,997 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:50:47,057 - logger_file -INFO - User serach for item successfully
+2023-06-02 13:50:47,108 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:50:47,161 - logger_file -INFO - User click on Item
+2023-06-02 13:57:55,514 - logger_file -INFO - User is on retail website
+2023-06-02 13:57:55,609 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:57:55,763 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:57:55,816 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:58:00,853 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:58:00,947 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:58:01,008 - logger_file -INFO - User serach for item successfully
+2023-06-02 13:58:01,059 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:58:01,656 - logger_file -INFO - User click on Item
+2023-06-02 13:58:55,610 - logger_file -INFO - User is on retail website
+2023-06-02 13:58:55,699 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:58:55,847 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:58:55,900 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:59:00,948 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:59:01,039 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:59:01,103 - logger_file -INFO - kasa outdoor smart plugitem name was entered successfully
+2023-06-02 13:59:01,155 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:59:03,769 - logger_file -INFO - User successfully click on item
+2023-06-02 13:59:03,941 - logger_file -INFO - User select quantity
+2023-06-02 13:59:03,990 - logger_file -INFO - User click on add to cart Bttn
+2023-06-02 13:59:04,054 - logger_file -INFO - the cart icon quantity changed
+2023-06-02 13:59:06,422 - logger_file -INFO - User is on retail website
+2023-06-02 13:59:06,503 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:59:06,646 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:59:06,695 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:59:11,734 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:59:11,814 - logger_file -INFO - User change caegory to smartHome
+2023-06-02 13:59:11,869 - logger_file -INFO - User serach for item successfully
+2023-06-02 13:59:11,918 - logger_file -INFO - User click on search Bttn
+2023-06-02 13:59:12,503 - logger_file -INFO - User click on Item
+2023-06-02 13:59:15,196 - logger_file -INFO - User is on retail website
+2023-06-02 13:59:15,274 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:59:15,414 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:59:15,465 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:59:20,498 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:59:20,590 - logger_file -INFO - User clicked on order
+2023-06-02 13:59:20,673 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 13:59:25,759 - logger_file -INFO - User successfully clicked on cancel Button
+2023-06-02 13:59:30,780 - logger_file -INFO - Actual and Expected text are the same
+2023-06-02 13:59:30,830 - logger_file -INFO - User click the cancel order button
+2023-06-02 13:59:30,831 - logger_file -INFO - Your order has been cancelled Successfully
+2023-06-02 13:59:33,245 - logger_file -INFO - User is on retail website
+2023-06-02 13:59:33,325 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:59:33,470 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:59:33,518 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:59:38,560 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:59:38,659 - logger_file -INFO - User clicked on order
+2023-06-02 13:59:38,732 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 13:59:38,814 - logger_file -INFO - User click on return Item Button
+2023-06-02 13:59:38,832 - logger_file -INFO - expected and Actual text are same
+2023-06-02 13:59:38,846 - logger_file -INFO - Expteded and Actual Text are same
+2023-06-02 13:59:38,900 - logger_file -INFO - User Successfully on Return Item
+2023-06-02 13:59:38,901 - logger_file -INFO - Return was Successfully
+2023-06-02 13:59:41,266 - logger_file -INFO - User is on retail website
+2023-06-02 13:59:41,339 - logger_file -INFO - User clicked on signin button successfully
+2023-06-02 13:59:41,475 - logger_file -INFO - User enter email and password successfully
+2023-06-02 13:59:41,523 - logger_file -INFO - User click on log in button successfully
+2023-06-02 13:59:46,562 - logger_file -INFO - Account: was verified successfully
+2023-06-02 13:59:46,649 - logger_file -INFO - User clicked on order
+2023-06-02 13:59:46,731 - logger_file -INFO - User clicked successfully on first order
+2023-06-02 13:59:46,799 - logger_file -INFO - User click on Review Button
+2023-06-02 13:59:46,882 - logger_file -INFO - User Succesfully Clicked on reveiw submit Button
+2023-06-02 13:59:46,882 - logger_file -INFO - Your review was added successfully

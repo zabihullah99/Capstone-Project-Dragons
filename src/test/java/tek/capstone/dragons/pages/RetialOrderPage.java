@@ -22,23 +22,28 @@ public class RetialOrderPage extends BaseSetup {
 	public WebElement kasaOutdoorSmartPlugItem;
 	@FindBy(xpath = "//select[@class='product__select']")
 	public WebElement productQtyDropdown;
+	@FindBy(xpath="//div/p[text()='Kasa Outdoor Smart Plug']")
+	public WebElement KasaOutdoorItem;
 	@FindBy(xpath = "//span[text()='Add to Cart']")
 	public WebElement addToCartBttn;
 	@FindBy(id = "cartQuantity")
 	public WebElement cartQtyField;
 
 	// part2
-	@FindBy(xpath = "//div[@class='products__layout']")
-	public WebElement apexLegendsItem;
-	@FindBy(id = "cartBtn")
-	public WebElement cartBttn;
-	@FindBy(id = "proceedBtn")
-	public WebElement proceedToCheckOutBttn;
-	@FindBy(id = "placeOrderBtn")
+	@FindBy(xpath= "//img[@alt='Apex Legends - 1,000 Apex Coins']")
+	public WebElement imgApexLegends;
+	@FindBy(xpath= "//p[@class='products__company']")
+	public WebElement apexLegends;
+	@FindBy(xpath= "//button[@id='searchBtn']")
+	public WebElement searchIcon2;
+	@FindBy(xpath="//div[@id='cartBtn']")
+	public WebElement cartButton;
+	@FindBy(xpath="//button[@id='proceedBtn']")
+	public WebElement procedToChekout;
+	@FindBy(xpath="//button[@id='placeOrderBtn']")
 	public WebElement placeOrderBttn;
-	@FindBy(xpath = "//p[text()='Order Placed, Thanks']")
-	public WebElement placeOrderMessage;
-
+	@FindBy(xpath="//div[text()='Order Placed Successfully']")
+	public WebElement orderPlaceMessage;
 	// part3
 	@FindBy(id = "searchBtn")
 	public WebElement searchBttn2;
