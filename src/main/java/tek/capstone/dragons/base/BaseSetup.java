@@ -24,8 +24,8 @@ public class BaseSetup {
 	public BaseSetup() {
 		//we need to get tyhe [path to env_config and log4j files 
 		//and srore them as String
-		String filePath = System.getProperty("user.dir") + "\\src\\main\\resources\\env_config.yml";
-		String log4jPath = System.getProperty("user.dir") + "\\src\\main\\resources\\log4j.properties";
+		String filePath = System.getProperty("user.dir") + "/src/main/resources/env_config.yml";
+		String log4jPath = System.getProperty("user.dir") + "/src/main/resources/log4j.properties";
 		try {
 			environmentVariables = ReadYamlFiles.getIntance(filePath);
 		} catch (Exception e) {
