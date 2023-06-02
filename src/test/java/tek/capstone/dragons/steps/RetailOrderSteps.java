@@ -12,48 +12,48 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User change the category to {string}")
 	public void userChangeTheCategoryTo(String smartHome) {
-		selectByVisibleText(factory.retailOrderPage().allDepartments, smartHome);
+		selectByVisibleText(factory.retailOrderpage().allDepartments, smartHome);
 		logger.info("User change caegory to smartHome");
 	}
 
 	@When("User search for an item {string}")
 	public void userSearchForAnItem(String kasaOutdoorSmartPlugItem) {
-		sendText(factory.retailOrderPage().searchInputField, kasaOutdoorSmartPlugItem);
+		sendText(factory.retailOrderpage().searchInputField, kasaOutdoorSmartPlugItem);
 		logger.info(kasaOutdoorSmartPlugItem + "item name was entered successfully");
 
 	}
 
 	@When("User click on Search icon")
 	public void userClickOnSearchIcon() {
-		click(factory.retailOrderPage().searchBttn);
+		click(factory.retailOrderpage().searchBttn);
 		logger.info("User click on search Bttn");
 
 	}
 
 	@When("User click on the item")
 	public void userClickOnTheItem() {
-		click(factory.retailOrderPage().kasaOutdoorSmartPlugItem);
+		click(factory.retailOrderpage().kasaOutdoorSmartPlugItem);
 		logger.info("User successfully click on item");
 
 	}
 
 	@When("User select quantity {string}")
 	public void userSelectQuantity(String itemQty) {
-		selectByVisibleText(factory.retailOrderPage().productQtyDropdown, itemQty);
+		selectByVisibleText(factory.retailOrderpage().productQtyDropdown, itemQty);
 		logger.info("item Qty was selected by user");
 
 	}
 
 	@When("User click add to Cart button")
 	public void userClickAddToCartButton() {
-		click(factory.retailOrderPage().addToCartBttn);
+		click(factory.retailOrderpage().addToCartBttn);
 		logger.info("User click on add to cart Bttn");
 
 	}
 
 	@Then("the cart icon quantity should change to {string}")
 	public void theCartIconQuantityShouldChangeTo(String ExpectedQty) {
-		Assert.assertEquals(ExpectedQty, factory.retailOrderPage().cartQtyField.getText());
+		Assert.assertEquals(ExpectedQty, factory.retailOrderpage().cartQtyField.getText());
 		logger.info(ExpectedQty + "was displayed in the cart");
 
 	}
@@ -61,50 +61,50 @@ public class RetailOrderSteps extends CommonUtility {
 	// part2
 	@When("User search for an item Apex Legends {string}")
 	public void userSearchForAnItemApexLegends(String apexLegends) {
-		sendText(factory.retailOrderPage().searchInputField, apexLegends);
+		sendText(factory.retailOrderpage().searchInputField, apexLegends);
 		logger.info(apexLegends + "was entered successfully");
 	}
 
 	@When("User click on item")
 	public void userClickOnItem() {
-		click(factory.retailOrderPage().apexLegendsItem);
+		click(factory.retailOrderpage().apexLegendsItem);
 		logger.info("User clicked on Apex Item");
 	}
 
 	@When("User select Apex Legends quantity {string}")
 	public void userSelectApexLegendsQuantity(String itemQtyapex) {
-		selectByVisibleText(factory.retailOrderPage().productQtyDropdown, itemQtyapex);
+		selectByVisibleText(factory.retailOrderpage().productQtyDropdown, itemQtyapex);
 		logger.info(itemQtyapex + "was selected");
 	}
 
 	@When("User click add cart button")
 	public void userClickAddCartButton() {
-		click(factory.retailOrderPage().addToCartBttn);
+		click(factory.retailOrderpage().addToCartBttn);
 		logger.info("User clicked on add to cart");
 
 	}
 
 	@Then("the cart icon quantity Apex Legends should change to {string}")
 	public void theCartIconQuantityApexLegendsShouldChangeTo(String expectedQty) {
-		Assert.assertEquals(expectedQty, factory.retailOrderPage().cartQtyField.getText());
+		Assert.assertEquals(expectedQty, factory.retailOrderpage().cartQtyField.getText());
 		logger.info(expectedQty + "was validated");
 	}
 
 	@Then("User click on Cart option")
 	public void userClickOnCartOption() {
-		click(factory.retailOrderPage().cartBttn);
+		click(factory.retailOrderpage().cartBttn);
 		logger.info("User click successfully");
 	}
 
 	@Then("User click on Proceed to Checkout button")
 	public void userClickOnProceedToCheckoutButton() {
-		click(factory.retailOrderPage().proceedToCheckOutBttn);
+		click(factory.retailOrderpage().proceedToCheckOutBttn);
 		logger.info("user click successfully on checkout");
 	}
 
 	@Then("User click on Place Your Order")
 	public void userClickOnPlaceYourOrder() {
-		click(factory.retailOrderPage().placeOrderBttn);
+		click(factory.retailOrderpage().placeOrderBttn);
 		logger.info("User click on place order Bttn");
 	}
 
@@ -116,20 +116,20 @@ public class RetailOrderSteps extends CommonUtility {
 	// part3
 	@When("User click on Orders section")
 	public void userClickOnOrdersSection() {
-		click(factory.retailOrderPage().orders);
+		click(factory.retailOrderpage().orders);
 		logger.info("User clicked on order");
 	}
 
 	@When("User click on first order in list")
 	public void userClickOnFirstOrderInList() {
-		click(factory.retailOrderPage().firstOrder);
+		click(factory.retailOrderpage().firstOrder);
 		logger.info("User clicked successfully on first order");
 	}
 
 	@When("User click on Cancel The Order button")
 	public void userClickOnCancelTheOrderButton() {
 		slowDown();
-		click(factory.retailOrderPage().cancelButton);
+		click(factory.retailOrderpage().cancelButton);
 		logger.info("User successfully clicked on cancel Button");
 	}
 
@@ -137,14 +137,14 @@ public class RetailOrderSteps extends CommonUtility {
 	public void userSelectTheCancelationReasonBoughtWrongItem() {
 		slowDown();
 		String expectedText = "Bought wrong item";
-		String actualText = factory.retailOrderPage().boughtWrongItem.getText();
+		String actualText = factory.retailOrderpage().boughtWrongItem.getText();
 		Assert.assertEquals(expectedText, actualText);
 		logger.info("Actual and Expected text are the same");
 	}
 
 	@When("User click on Cancel Order button")
 	public void userClickOnCancelOrderButton() {
-		click(factory.retailOrderPage().cancelOrderButton);
+		click(factory.retailOrderpage().cancelOrderButton);
 		logger.info("User click the cancel order button");
 	}
 
@@ -156,14 +156,14 @@ public class RetailOrderSteps extends CommonUtility {
 	// part4
 	@When("User click on Return Items button")
 	public void userClickOnReturnItemsButton() {
-		click(factory.retailOrderPage().returnItems);
+		click(factory.retailOrderpage().returnItems);
 		logger.info("User click on return Item Button");
 	}
 
 	@When("User select the Return Reason ‘Item damaged’")
 	public void userSelectTheReturnReasonItemDamaged() {
 		String expectedText = "Item damaged";
-		String actualText = factory.retailOrderPage().damageItem.getText();
+		String actualText = factory.retailOrderpage().damageItem.getText();
 		Assert.assertEquals(expectedText, actualText);
 		logger.info("expected and Actual text are same");
 	}
@@ -171,14 +171,14 @@ public class RetailOrderSteps extends CommonUtility {
 	@When("User select the drop off service ‘FedEx’")
 	public void userSelectTheDropOffServiceFedEx() {
 		String expectedT = "FedEx";
-		String actualT = factory.retailOrderPage().dorpOffService.getText().trim();
+		String actualT = factory.retailOrderpage().dorpOffService.getText().trim();
 		Assert.assertEquals(expectedT, actualT);
 		logger.info("Expteded and Actual Text are same");
 	}
 
 	@When("User click on Return Order button")
 	public void userClickOnReturnOrderButton() {
-		click(factory.retailOrderPage().returnOrderButton);
+		click(factory.retailOrderpage().returnOrderButton);
 		logger.info("User Successfully on Return Item");
 	}
 
@@ -191,19 +191,19 @@ public class RetailOrderSteps extends CommonUtility {
 	// part5
 	@When("User click on Review button")
 	public void userClickOnReviewButton() {
-		click(factory.retailOrderPage().reviewButton);
+		click(factory.retailOrderpage().reviewButton);
 		logger.info("User click on Review Button");
 	}
 
 	@When("User write Review headline ‘ headline value’ and ‘review text’’")
 	public void userWriteReviewHeadlineHeadlineValueAndReviewText() {
-		Assert.assertTrue(factory.retailOrderPage().headlineInput.isDisplayed());
-		Assert.assertTrue(factory.retailOrderPage().descriptionOnItem.isDisplayed());
+		Assert.assertTrue(factory.retailOrderpage().headlineInput.isDisplayed());
+		Assert.assertTrue(factory.retailOrderpage().descriptionOnItem.isDisplayed());
 	}
 
 	@When("User click Add your Review button")
 	public void userClickAddYourReviewButton() {
-		click(factory.retailOrderPage().reviewSubmitButton);
+		click(factory.retailOrderpage().reviewSubmitButton);
 		logger.info("User Succesfully Clicked on reveiw submit Button");
 	}
 

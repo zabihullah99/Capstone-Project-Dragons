@@ -8,12 +8,13 @@ public class POMFactory  {
 	private RetailHomePage retailHomePage;
 	private RetailSignInPage retailSignInPage;
 	private RetailAccountPage retailAccountPage;
-	private RetailOrderPage retailOrderPage;
+	private RetialOrderPage retailOrderPage;
 	public POMFactory() {
 		this. retailHomePage =  new RetailHomePage();
 		this.retailSignInPage = new RetailSignInPage();
 		this.retailAccountPage = new RetailAccountPage();
-		this.retailOrderPage = new RetailOrderPage();
+		this.retailOrderPage = new RetialOrderPage();
+		
 		}
 	
 	public  RetailHomePage  retailHomePage() {
@@ -26,7 +27,8 @@ public class POMFactory  {
 	public RetailAccountPage retailAccountPage() {
 		return this.retailAccountPage;
 	}
-	public RetailOrderPage retailOrderPage() {
+	public RetialOrderPage retailOrderpage() {
 		return this.retailOrderPage;
 	}
+	
 }
