@@ -8,11 +8,13 @@ import tek.capstone.dragons.pages.POMFactory;
 import tek.capstone.dragons.utilities.CommonUtility;
 
 public class RetailOrderSteps extends CommonUtility {
+	
+
 	POMFactory factory = new POMFactory();
 
 	@When("User change the category to {string}")
-	public void userChangeTheCategoryTo(String smartHome) {
-		selectByVisibleText(factory.retailOrderpage().allDepartments, smartHome);
+	public void userChangeTheCategoryTo(String smarthome) {
+		selectByVisibleText(factory.retailOrderpage().allDepartments, smarthome);
 		logger.info("User change caegory to smartHome");
 	}
 
@@ -31,79 +33,74 @@ public class RetailOrderSteps extends CommonUtility {
 	}
 
 	@When("User click on the item")
-	public void userClickOnTheItem() throws InterruptedException {
-		click(factory.retailOrderpage().KasaOutdoorItem);
-		Thread.sleep(2000);
+	public void userClickOnTheItem() {
+		click(factory.retailOrderpage().kasaOutdoorSmartPlugItem);
 		logger.info("User successfully click on item");
+
 	}
 
-	@When("User select quantity ‘{int}’")
-	public void userSelectQuantity(Integer int1) {
-		clearTextUsingSendKeys(factory.retailOrderpage().productQtyDropdown);
-		selectByIndex(factory.retailOrderpage().productQtyDropdown, int1 );
-		logger.info("User select quantity");
+	@When("User select quantity {string}")
+	public void userSelectQuantity(String itemQty) {
+		selectByVisibleText(factory.retailOrderpage().productQtyDropdown, itemQty);
+		logger.info("item Qty was selected by user");
+
 	}
 
 	@When("User click add to Cart button")
 	public void userClickAddToCartButton() {
 		click(factory.retailOrderpage().addToCartBttn);
 		logger.info("User click on add to cart Bttn");
+
 	}
 
-	@Then("the cart icon quantity should change to‘{int}’")
-	public void theCartIconQuantityShouldChangeTo(Integer int1) {
-		selectByIndex(factory.retailOrderpage().productQtyDropdown, int1 );
-		logger.info("the cart icon quantity changed");
-	}
+	@Then("the cart icon quantity should change to {string}")
+	public void theCartIconQuantityShouldChangeTo(String ExpectedQty) {
+		Assert.assertEquals(ExpectedQty, factory.retailOrderpage().cartQtyField.getText());
+		logger.info(ExpectedQty + "was displayed in the cart");
 
+	}
 
 	// part2
 	@When("User search for an item Apex Legends {string}")
-	public void userSearchForAnItemApexLegends(String string) {
-		sendText(factory.retailOrderpage().searchInputField, string);
-		logger.info("User serach for item successfully");
+	public void userSearchForAnItemApexLegends(String apexLegends) {
+		sendText(factory.retailOrderpage().searchInputField, apexLegends);
+		logger.info(apexLegends + "was entered successfully");
 	}
-	@When("User search for the item {string}")
-	public void userSearchForTheItem(String string) {
-		sendText(factory.retailOrderpage().searchInputField, string);
-		logger.info("User serach for item successfully");		
-	}
-	@When("User click on the Search icon")
-	public void userClickOnTheSearchIcon() {
-		click(factory.retailOrderpage().searchIcon2);
-		logger.info("User click on search icon successfully");
-	}
+
 	@When("User click on item")
 	public void userClickOnItem() {
-	    click(factory.retailOrderpage().apexLegends);
-	    logger.info("User click on Item");
+		click(factory.retailOrderpage().apexLegendsItem);
+		logger.info("User clicked on Apex Item");
 	}
-	@When("User select Apex Legends quantity ‘{int}’")
-	public void userSelectApexLegendsQuantity(Integer int5) throws InterruptedException {
-		clearTextUsingSendKeys(factory.retailOrderpage().productQtyDropdown);
-		selectByIndex(factory.retailOrderpage().productQtyDropdown,int5 );
-		Thread.sleep(3000);
-		logger.info("User select Qty for the item");
+
+	@When("User select Apex Legends quantity {string}")
+	public void userSelectApexLegendsQuantity(String itemQtyapex) {
+		selectByVisibleText(factory.retailOrderpage().productQtyDropdown, itemQtyapex);
+		logger.info(itemQtyapex + "was selected");
 	}
+
 	@When("User click add cart button")
 	public void userClickAddCartButton() {
-	    click(factory.retailOrderpage().addToCartBttn);
-	    logger.info("User click on the cart button");
+		click(factory.retailOrderpage().addToCartBttn);
+		logger.info("User clicked on add to cart");
+
 	}
-	@Then("the cart icon quantity Apex Legends should change to ‘{int}’")
-	public void theCartIconQuantityApexLegendsShouldChangeTo(Integer int5) {
-		selectByIndex(factory.retailOrderpage().productQtyDropdown,int5);
-		logger.info("cart icon changed to desire Qty");
+
+	@Then("the cart icon quantity Apex Legends should change to {string}")
+	public void theCartIconQuantityApexLegendsShouldChangeTo(String expectedQty) {
+		Assert.assertEquals(expectedQty, factory.retailOrderpage().cartQtyField.getText());
+		logger.info(expectedQty + "was validated");
 	}
+
 	@Then("User click on Cart option")
 	public void userClickOnCartOption() {
-		click(factory.retailOrderpage().cartButton);
+		click(factory.retailOrderpage().cartBttn);
 		logger.info("User click successfully");
 	}
 
 	@Then("User click on Proceed to Checkout button")
 	public void userClickOnProceedToCheckoutButton() {
-		click(factory.retailOrderpage().procedToChekout);
+		click(factory.retailOrderpage().proceedToCheckOutBttn);
 		logger.info("user click successfully on checkout");
 	}
 
