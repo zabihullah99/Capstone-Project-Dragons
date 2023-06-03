@@ -8,30 +8,30 @@ Feature: Retail Order Page
     And User click on login button
     And User should be logged in into Account
 
-  @order1
- 
+  @test1
   Scenario: Verify User can add an item to cart
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'
     And User click on Search icon
     And User click on the item
-    And User select quantity '2'
+    And User select quantity ‘2’
     And User click add to Cart button
-    Then the cart icon quantity should change to '2'
+    Then the cart icon quantity should change to‘2’
 
-  @order2
+  @test2
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     And User change the category to 'Electronics'
     And User search for an item Apex Legends 'Apex Legends'
     And User click on Search icon
     And User click on item
-    And User select Apex Legends quantity '5'
+    And User select Apex Legends quantity ‘5’
     And User click add cart button
-    Then the cart icon quantity Apex Legends should change to '5'
+    Then the cart icon quantity Apex Legends should change to ‘5’
     And User click on Cart option
     And User click on Proceed to Checkout button
     And User click on Place Your Order
     Then a message should be displayed 'Order Placed, Thanks'
+
 
   @order3
   Scenario: Verify User can cancel the order
